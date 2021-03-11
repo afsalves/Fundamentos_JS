@@ -1,3 +1,5 @@
+//Funcoes tem atributos e comportamento e podem ser instanciadas
+
 // Funcao sem retorno
 function imprimirSoma(a, b) {
     console.log(a+b)
